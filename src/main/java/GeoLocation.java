@@ -20,8 +20,8 @@ public class GeoLocation
      */
     public GeoLocation(double theLatitude, double theLongitude) 
     {
-        latitude = theLatitude;
-        longitude = theLongitude;
+        this.latitude = theLatitude;
+        this.longitude = theLongitude;
     }
 
     /**
